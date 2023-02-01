@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://github.com/Viton4ik/Info_page_HTML/blob/master/hf.css">
+    <link rel="stylesheet" href="[https://github.com/Viton4ik/Info_page_HTML/blob/master/hf.css](https://github.com/Viton4ik/Info_page_HTML/blob/master/hf.css)">
 </head>
 <body>
 <nav class="header">
