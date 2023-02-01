@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Hobby</title>
-    <link rel="stylesheet" href="hf.css">
+    <link rel="stylesheet" href="https://github.com/Viton4ik/Info_page_HTML/blob/master/hf.css">
 </head>
 <body>
 
