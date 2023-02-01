@@ -23,7 +23,7 @@
 <!-- Main Content-->
 <div class="content">
     <div class="topic-container">
-        <p><img src="html.jpeg" alt="html" width="50x" height="50x"></p>
+        <p><img src="[html.jpeg](https://github.com/Viton4ik/Info_page_HTML/blob/master/html.jpeg)" alt="html" width="50x" height="50x"></p>
         <p></p>
         <p><img src="css.png" alt="css" width="47x" height="47x"></p>
         <p></p>
